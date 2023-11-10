@@ -148,7 +148,7 @@ body{
     justify-content: center;
     /* align-items: center; */
     height: 20px;
-    background-image: url("../img/icons/icon.png");
+    background-image: url("../icon.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -157,13 +157,13 @@ body{
     padding: 4px;
     width: 28px;
     height: 28px;
-    background-image: url("../img/ic_round-menu.png");
+    background-image: url("../ic_round-menu.png");
     background-size: 100%;
     background-repeat: no-repeat;
     margin-left: 4px;
 }
 .close-burger{
-    background-image: url("../img/Close.png");
+    background-image: url("../Close.png");
 }
 /* ===============burger=================== */
 .header-flex {
@@ -221,7 +221,7 @@ body{
     content: "";
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/icon.png');
+    background-image: url('../icon.png');
     background-repeat: no-repeat;
     background-size: 100%;
     position: absolute;
@@ -529,47 +529,47 @@ body{
 
 /* =====================================marks======================= */
 .shield{
-    background-image: url('../img/Shield.png');
+    background-image: url('../Shield.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .dollar{
-    background-image: url('../img/$.png');
+    background-image: url('../$.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .soccer{
-    background-image: url('../img/Soccer.png');
+    background-image: url('../Soccer.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .m{
-    background-image: url('../img/M.png');
+    background-image: url('../M.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .world{
-    background-image: url('../img/World.png');
+    background-image: url('../World.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .timer{
-    background-image: url('../img/Timer.png');
+    background-image: url('../Timer.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .crown{
-    background-image: url('../img/Crown.png');
+    background-image: url('../Crown.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .putworld{
-    background-image: url('../img/world-puton.png');
+    background-image: url('../world-puton.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .dollarput{
-    background-image: url('../img/dollar-put.png');
+    background-image: url('../dollar-put.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -631,7 +631,7 @@ body{
 .social-networks{
     width: 32px;
     height: 32px;
-    background-image: url('../img/icons/vector.png');
+    background-image: url('../vector.png');
     background-repeat: no-repeat;
     background-size: 100%;
     position: relative;
@@ -646,7 +646,7 @@ body{
 .social-networks1{
     width: 32px;
     height: 32px;
-    background-image: url('../img/icons/vector.png');
+    background-image: url('../vector.png');
     background-repeat: no-repeat;
     background-size: 100%;
     position: relative;
@@ -656,7 +656,7 @@ body{
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/Twitter.png');
+    background-image: url('../Twitter.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
@@ -669,7 +669,7 @@ body{
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/Facebook.png');
+    background-image: url('../Facebook.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
@@ -682,7 +682,7 @@ body{
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/Instagram.png');
+    background-image: url('../Instagram.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
@@ -695,7 +695,7 @@ body{
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/LinkedIn.png');
+    background-image: url('../LinkedIn.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
@@ -708,7 +708,7 @@ body{
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/YouTube.png');
+    background-image: url('../YouTube.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
@@ -721,7 +721,7 @@ body{
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/TikTok.png');
+    background-image: url('../TikTok.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
@@ -734,7 +734,7 @@ body{
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/Telegram.png');
+    background-image: url('../Telegram.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
@@ -747,7 +747,7 @@ body{
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url('../img/icons/VK.png');
+    background-image: url('../VK.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
