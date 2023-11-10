@@ -1155,3 +1155,10 @@ body{
         }
     }
 }
+
+@media (max-width: 315px){
+    .scroll-blog {
+        width: 260px;
+        margin-left: 6px;
+    }
+}
