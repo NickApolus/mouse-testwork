@@ -1172,4 +1172,7 @@ body{
         width: 21px;
         height: 21px;
     }
+    .com-data{
+        font-size: 9px!important;
+    }
 }
