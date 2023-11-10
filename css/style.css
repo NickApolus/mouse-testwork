@@ -1161,4 +1161,15 @@ body{
         width: 260px;
         margin-left: 6px;
     }
+    body{
+        font-size: 12px;
+    }
+    .social-networks {
+        width: 21px;
+        height: 21px;
+    }
+    .social-networks1 {
+        width: 21px;
+        height: 21px;
+    }
 }
