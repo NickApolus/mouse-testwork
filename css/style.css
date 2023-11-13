@@ -31,8 +31,6 @@
 .wrapper{
     max-width: 1550px;
     margin: 0 auto;
-    margin-left: 10px;
-    margin-right: 10px;
 }
 input,
 textarea {
